@@ -1,3 +1,5 @@
+![images/toolbox_thumbnail.jpg](https://github.com/duerrhannes/duerrhannes.github.io/blob/55c1bc9ae05b977d749b70438e976c90f3eb4a24/images/toolbox_thumbnail.jpg)
+
 This is a collection of tools and jupyter-notebooks to streamline your workflow and ease your day. Feel free to try them out and optimize them.
 
 Contents:
